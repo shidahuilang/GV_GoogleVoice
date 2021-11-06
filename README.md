@@ -76,6 +76,4 @@ function autoReplier() {
 
 ![6](https://raw.githubusercontent.com/veip007/GV_GoogleVoice/master/6.png)
 
-10、好了，现在你可以给自己发一条短信试试了。  （有问题请留言）
-
-本文转自[萌精灵](https://www.moeelf.com)原文地址：https://www.moeelf.com/archives/4.html
+10、好了，现在你可以给自己发一条短信试试了。
